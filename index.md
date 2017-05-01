@@ -1,4 +1,4 @@
-# iOS Engineer at Edukitten
+# iOS Engineer at Edukitten Ltd
 
 EduKitten, a fresh Startup working in the field of Educational Arabic Mobile Applications for kids of age group 3-8, We want kids to be passionate about Arabic and learn it in fun way. At EduKitten, we have a unique working environment where we value and appreciate the contributions of our bright, creative, and energetic colleagues who are committed to achieving personal excellence each and every day while keeping our spirits high through having lots of fun
 
